@@ -3,19 +3,16 @@ Saya Muhammad Ridha Samudra dengan NIM 2001680 mengerjakan TP3 pada mata kuliah 
 untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 <br>
 <br>
-### Tampilan Landing Page
-![landing page](https://user-images.githubusercontent.com/80692514/162023683-61cd386c-025b-48fd-b316-352062778dac.jpg)
+### Input Data Mahasiswa
+![input data](https://user-images.githubusercontent.com/80692514/166947764-a01d8386-5504-4d20-a6da-07d917d12ab2.jpg)
 <br>
-### Add Data
-Cara kerja add data ini ialah, ketika kita isi data di form lalu kita klik tombol add, maka data akan ditampilkan di table.
-![add](https://user-images.githubusercontent.com/80692514/162023703-c5dbf8b0-f98b-4fae-92ab-f75ac94d315e.jpg)
+### View All Data
+![data mahasiswa](https://user-images.githubusercontent.com/80692514/166947911-041b975f-2e8c-4f68-ab12-91aa9a6ef53e.jpg)
 <br>
 ### Delete Data
-Cara kerja delete data ini, kita klik data yang ada di table terlebih dahulu, baru kita klik tombol delete.
-![delete](https://user-images.githubusercontent.com/80692514/162023705-452ed84e-840b-4a24-b58d-3902a646a841.jpg)
+![hapus semua data](https://user-images.githubusercontent.com/80692514/166947991-93fd13fb-eaae-4d3d-bf5f-3d14ee9c5e40.jpg)
 <br>
-### Update Data
-Fungsi update data ini digunakan untuk mengubah status suatu task, misal yang asalnya belum menjadi selesai.
-![update](https://user-images.githubusercontent.com/80692514/162023698-4a9ad734-1da1-4ea8-ab35-9d0ed7343c07.jpg)
-<br>
+### Foto Fasilitas Kampus
+![fasilitas kampus](https://user-images.githubusercontent.com/80692514/166948387-f5a99634-8cd9-4790-ab52-4da15ef83d49.jpg)
+
 
